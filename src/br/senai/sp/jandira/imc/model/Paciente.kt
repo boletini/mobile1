@@ -1,6 +1,9 @@
+package br.senai.sp.jandira.imc.model
+
 import java.time.LocalDate
 import java.time.Period
 import kotlin.math.pow
+
 // classe paciente
 //programador: beatriz boletini
 //data: 04/02/2025
